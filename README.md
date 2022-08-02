@@ -1,7 +1,4 @@
-# Twelve Days
-
-Welcome to Twelve Days on Exercism's Go Track.
-If you need help running the tests or submitting your code, check out `HELP.md`.
+Solution for a coding exercise on Exercism: https://exercism.org/tracks/go/exercises/twelve-days
 
 ## Instructions
 
@@ -32,29 +29,3 @@ On the eleventh day of Christmas my true love gave to me: eleven Pipers Piping, 
 
 On the twelfth day of Christmas my true love gave to me: twelve Drummers Drumming, eleven Pipers Piping, ten Lords-a-Leaping, nine Ladies Dancing, eight Maids-a-Milking, seven Swans-a-Swimming, six Geese-a-Laying, five Gold Rings, four Calling Birds, three French Hens, two Turtle Doves, and a Partridge in a Pear Tree.
 ```
-
-## Source
-
-### Created by
-
-- @Akasurde
-
-### Contributed to by
-
-- @alebaffa
-- @bitfield
-- @ekingery
-- @ferhatelmas
-- @hilary
-- @IsaacG
-- @leenipper
-- @mcaci
-- @nywilken
-- @PatrickMcSweeny
-- @robphoenix
-- @sebito91
-- @tleen
-
-### Based on
-
-Wikipedia - http://en.wikipedia.org/wiki/The_Twelve_Days_of_Christmas_(song)
